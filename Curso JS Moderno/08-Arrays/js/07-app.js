@@ -32,12 +32,12 @@ console.table(carrito);
 
 
 // // .pop elimina el ultimo elemento del array
-// carrito.pop();
-// console.table(carrito);
+carrito.pop();
+console.table(carrito);
 
 // // .shift elimina el primer elemento del array
-// carrito.shift();
-// console.table(carrito);
+carrito.shift();
+console.table(carrito);
 
 // Eliminar desde una posicion concreta del array
 carrito.splice(1, 1);

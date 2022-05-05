@@ -1,4 +1,4 @@
-const carrito = [];
+const carrito = [1,2,3];
 
 // Definir un producto
 const producto = {
